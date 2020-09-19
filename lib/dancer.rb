@@ -1,3 +1,6 @@
+require_relative './fancy_dance.rb'
+
+
 class Dancer
 
 #We will include our fancy_dance nested modules in the Dancer class. Using the keyword
